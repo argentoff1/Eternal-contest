@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class Task1 {
 
     public static void main(String[] args) {
-	// write your code here
         Scanner scanner = new Scanner(System.in);
         int fareCost = scanner.nextInt();
         int fareAmount = scanner.nextInt();
